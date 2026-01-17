@@ -3,7 +3,7 @@
 TOML (Tom’s Obvious, Minimal Language): It’s a simple configuration file format (like JSON or YAML) but is easier to read and write. 
 TOML is becoming the standard for Python packaging metadata.
 
-2. Why pyproject.toml is important:
+2. Why pyproject.toml is important:  
 
 > It was introduced with PEP 518 to modernize Python package building. Previously, everything was done using setup.py 
   but now pyproject.toml allows for more flexibility, better dependency management, and cleaner project configuration.
