@@ -26,6 +26,15 @@
 16. EDA and Feature Engg notebook added.
 
 ----------------------------------------------- Data Ingestion -----------------------------------------------
+Workflow:
+constant
+config entity
+artifact entity
+component
+pipeleine
+app.py / demo.py
+this above workflow we execute by following the below steps 
+
 17. Before we work on "Data Ingestion" component >> Declare variables within constants.__init__.py file >> 
     add code to configuration.mongo_db_connections.py file and define the func for mondodb connection >> 
     Inside "data_access" folder, add code to proj1_data that will use mongo_db_connections.py
