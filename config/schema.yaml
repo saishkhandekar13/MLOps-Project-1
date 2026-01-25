@@ -1,3 +1,4 @@
+# the below are thee columns we pulled with mongodb from data
 columns:
   - id: int
   - Gender: category
